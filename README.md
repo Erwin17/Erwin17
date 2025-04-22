@@ -1,10 +1,7 @@
 # 👋 ¡Hola! Soy [Erwin Corzo]
 
-🎯 Desarrollador/a de [Tu Especialidad: Backend, Frontend, Fullstack, Móvil, etc.]  
-💼 Actualmente trabajando en [Tu empresa o proyecto actual]  
-🌱 Aprendiendo sobre [Tecnologías, frameworks o conceptos que estés estudiando]  
-📍 Basado en [Ciudad, País]  
-
+Soy un desarrollador backend apasionado por aprender cosas nuevas. Uno de los mayores retos que aún tengo pendiente es dominar un nuevo idioma. 
+He intentado varias veces, pero siempre termino abandonando el proceso. Aun así, sigo decidido a superarlo y mantener la constancia.
 ---
 
 ## 🚀 Tecnologías y herramientas
@@ -22,7 +19,7 @@
 
 ---
 
-## 🧰 Proyectos Destacados
+## 🧰 Ejemplos de Implementaciones personales
 
 - 🔗 [**Nombre del Proyecto**](URL): Breve descripción de lo que hace el proyecto.
 - 🔗 [**Nombre del Proyecto 2**](URL): Otro ejemplo de un proyecto interesante.
@@ -31,8 +28,8 @@
 
 ## 📫 Cómo contactarme
 
-- LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/erwin-corzo-9613761aa/)
-- Correo: [tunombre@email.com](erwinch18@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/erwin-corzo-9613761aa/](https://www.linkedin.com/in/erwin-corzo-9613761aa/)
+- Instagram [https://www.instagram.com/erwin.corzo.319/](https://www.instagram.com/erwin.corzo.319/)
 ---
 
 _¡Gracias por visitar mi perfil! 🌟_
