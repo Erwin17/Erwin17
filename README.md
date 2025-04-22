@@ -11,19 +11,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ## 🧰 Ejemplos de Implementaciones personales
 
-- 🔗 [**Nombre del Proyecto**](URL): Breve descripción de lo que hace el proyecto.
-- 🔗 [**Nombre del Proyecto 2**](URL): Otro ejemplo de un proyecto interesante.
+- 🔗 [**Proyecto 1**](URL): Not Found.
+- 🔗 [**Proyecto 2**](URL): Not Found.
 
 ---
 
