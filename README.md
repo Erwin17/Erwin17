@@ -20,8 +20,8 @@
 
 ## 📫 Cómo contactarme
 
-- LinkedIn: [https://www.linkedin.com/in/erwin-corzo-9613761aa/](https://www.linkedin.com/in/erwin-corzo-9613761aa/)
-- Instagram [https://www.instagram.com/erwin.corzo.319/](https://www.instagram.com/erwin.corzo.319/)
+- LinkedIn: [**linkedin**](https://www.linkedin.com/in/erwin-corzo-9613761aa/)
+- Instagram [**instagram**](https://www.instagram.com/erwin.corzo.319/)
 ---
 
 _¡Gracias por visitar mi perfil! 🌟_
