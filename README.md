@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy [Erwin Corzo]
 
- Soy un desarrollador backend apasionado por aprender cosas nuevas. Uno de los mayores retos que aún tengo pendiente es dominar un nuevo idioma.  
- He intentado varias veces, pero siempre termino mandando todo a la mierda. Aun así, sigo decidido a superarlo y mantener la constancia.
+ Soy un desarrollador backend apasionado por aprender cosas nuevas.
 
 ---
 
