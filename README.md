@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy [Erwin Corzo]
 
- Soy un desarrollador backend apasionado por aprender cosas nuevas.
-
+ Soy un desarrollador backend con Java, en permanente proceso de aprendizaje.
+ 
 ---
 
 ## 🚀 Tecnologías y herramientas
