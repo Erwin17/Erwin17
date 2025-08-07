@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologías y herramientas
 
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,kubernetes,docker,aws,mysql,postgres,dynamodb" alt="Tech stack" width="100%"/>
+<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,mysql,postgres,dynamodb" alt="Tech stack" width="100%"/>
 
 ---
 
