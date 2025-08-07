@@ -10,17 +10,9 @@
 
 ---
 
-## 🧰 Ejemplos de Implementaciones personales
-
-- 🔗 [**Pattern Api Gateway**](https://github.com/Erwin17/spring-reactive-api-gateway/tree/feature/simple-api-gateway).
-- 🔗 [**Proyecto 2**](URL): Not Found.
-
----
-
 ## 📫 Cómo contactarme
 
 - LinkedIn: [**linkedin**](https://www.linkedin.com/in/erwin-corzo-9613761aa/)
-- Instagram [**instagram**](https://www.instagram.com/erwin.corzo.319/)
 ---
 
 _¡Gracias por visitar mi perfil! 🌟_
