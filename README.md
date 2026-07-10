@@ -1,8 +1,6 @@
 # [Erwin Corzo]
--
-Desarrollador de Backend
 
--
+Desarrollador de Backend
 
 ## Facus
  * IA (Skill, OpenCode, SDD)
