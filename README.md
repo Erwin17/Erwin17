@@ -3,11 +3,10 @@
 **Desarrollador de Backend Java**
 
 ## Enfoque
- * IA (Skill, OpenCode, SDD)
- * Desing System
- * Architecture
- * Desing Pattern
----
+ - IA (Skill, OpenCode, SDD)
+ - Desing System
+ - Architecture
+ - Desing Pattern
 
 ## 📫 Cómo contactarme
 
