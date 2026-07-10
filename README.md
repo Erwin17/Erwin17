@@ -1,13 +1,14 @@
-# 👋 ¡Hola! Soy [Erwin Corzo]
+# [Erwin Corzo]
+---
+Desarrollador de Backend
 
- Soy un desarrollador backend con Java, en permanente proceso de aprendizaje.
- 
 ---
 
-## 🚀 Tecnologías y herramientas
-
-<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,mysql,postgres,dynamodb" alt="Tech stack" width="100%"/>
-
+## Facus
+ * IA (Skill, OpenCode, SDD)
+ * Desing System
+ * Architecture
+ * Desing Pattern
 ---
 
 ## 📫 Cómo contactarme
