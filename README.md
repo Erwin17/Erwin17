@@ -1,8 +1,8 @@
-# [Erwin Corzo]
+# Erwin Corzo
 
-Desarrollador de Backend
+**Desarrollador de Backend Java**
 
-## Facus
+## Enfoque
  * IA (Skill, OpenCode, SDD)
  * Desing System
  * Architecture
